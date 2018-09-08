@@ -1,0 +1,10 @@
+F:\ZPractice\Pattern\bin\Debug\netcoreapp2.0\Pattern.deps.json
+F:\ZPractice\Pattern\bin\Debug\netcoreapp2.0\Pattern.runtimeconfig.json
+F:\ZPractice\Pattern\bin\Debug\netcoreapp2.0\Pattern.runtimeconfig.dev.json
+F:\ZPractice\Pattern\bin\Debug\netcoreapp2.0\Pattern.dll
+F:\ZPractice\Pattern\bin\Debug\netcoreapp2.0\Pattern.pdb
+F:\ZPractice\Pattern\obj\Debug\netcoreapp2.0\Pattern.csproj.CoreCompileInputs.cache
+F:\ZPractice\Pattern\obj\Debug\netcoreapp2.0\Pattern.AssemblyInfoInputs.cache
+F:\ZPractice\Pattern\obj\Debug\netcoreapp2.0\Pattern.AssemblyInfo.cs
+F:\ZPractice\Pattern\obj\Debug\netcoreapp2.0\Pattern.dll
+F:\ZPractice\Pattern\obj\Debug\netcoreapp2.0\Pattern.pdb
